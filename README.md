@@ -109,3 +109,66 @@
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+
+## MVC Frameworks and Libraries
+
+* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
+* [angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+* [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
+* [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
+* [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+* [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
+* [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
+* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+* [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+* [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
+* [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
+* [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
+* [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
+* [react](https://reactjs.org/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
+* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
+* [preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+* [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [riot](https://github.com/riot/riot) - React-like library, but with very small size.
+* [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
+* [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
+* [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
+* [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
+* [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+* [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+    * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
+* [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
+* [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
+* [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
+* [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
+* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+* [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
+* [Lucia](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+* [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
+* [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+* [Rete.js](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+* [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+* [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+* [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
+* [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+* [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+* [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+
+## Node-Powered CMS Frameworks
+
+* [KeystoneJS](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
+* [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+* [Apostrophe](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
+* [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
+* [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
+* [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
+* [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
+* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
+* [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+* [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
