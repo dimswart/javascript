@@ -295,3 +295,57 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
 * [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
 * [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
+## String
+*String Libraries.*
+
+* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
+* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
+* [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
+* [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
+* [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+* [URI.js](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
+* [jsurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+* [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+* [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+* [plexis](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
+* [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
+
+## Number
+
+* [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
+* [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
+* [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
+* [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
+* [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
+* [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+* [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
+* [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
+* [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+
+## Storage
+
+* [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
+* [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+* [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
+* [cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
+* [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
+* [bag.js](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
+* [basil.js](https://github.com/Wisembly/basil.js) - The missing JavaScript smart persistent layer.
+* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+* [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies.
+* [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
+* [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
+* [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+* [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [pouchdb](https://github.com/pouchdb/pouchdb) - Javascript db inspired by Apache CouchDB to run well within the browser.
+* [crumbsjs](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+* [awesome-web-storage](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
+* [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
+* [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
+* [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
+* [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
+* [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+* [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
+* [PostgreSQL Browser](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
