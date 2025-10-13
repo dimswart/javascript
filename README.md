@@ -264,3 +264,34 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 * [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
+
+## Templating Engines
+*Templating engines allow you to perform string interpolation.*
+
+* [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
+* [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - An extension to the Mustache templating language.
+* [nunjucks](https://mozilla.github.io/nunjucks/) - A rich and powerful templating language for JavaScript from Mozilla.
+* [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
+* [doT](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
+* [dustjs](https://github.com/linkedin/dustjs/) - Asynchronous templates for the browser and node.js.
+* [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
+* [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
+* [t.js](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in ~400 bytes gzipped.
+* [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
+* [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
+* [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+* [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
+* [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
+
+## Game Engines
+* [A-Frame](https://aframe.io) - Make WebVR.
+* [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
+* [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
+* [GDevelop](https://gdevelop.io) - Free and Easy Game-Making App.
+* [Kaboom.js](https://kaboomjs.com) - A game programming library that helps you make games fast and fun.
+* [Matter.js](https://brm.io/matter-js) - A 2D rigid body JavaScript physics engine.
+* [melonJS](https://melonjs.org) - Open source HTML5 game engine that empowers developers and designers to focus on content.
+* [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
+* [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
